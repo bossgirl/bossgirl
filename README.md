@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... STEM
 - 🌱 I’m currently learning ... Java/c++
 - 💞️ I’m looking to collaborate on ... minecraft plugins
-- 📫 How to reach me ... blackbelt.ninja.gal@gmail.com
+- 📫 How to reach me ... sophiagdunn5865@gmail.com
 I will do my best to respond within 5-7 buisness days
 
 <!---
